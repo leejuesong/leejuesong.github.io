@@ -1,3 +1,9 @@
-# leejuesong.github.io
+---
+title: Welcome to my website
+layout: page
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Hello world
+---
 
-이것도 되는지?
+There isn't much going on here yet, but watch this space
